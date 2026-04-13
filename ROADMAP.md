@@ -2,7 +2,7 @@
 
 ## Offen
 
-- [ ] #10 Branch pushen und Pull Request eroeffnen lassen
+_(nichts offen)_
 
 ## Done
 
@@ -15,3 +15,4 @@
 - [x] #7  Inhalt "Modelle" schreiben
 - [x] #8  Styling finalisieren (Typografie, Abstaende, Mobile)
 - [x] #9  Selbsttest: HTML validieren, mobile Preview, Kontraste
+- [x] #10 Branch pushen und Pull Request eroeffnen lassen
