@@ -9,3 +9,4 @@ Format: `[YYYY-MM-DD HH:MM]  was`
 [2026-04-13 13:29]  Commit erstellt und Branch herbert/self-intro nach origin gepusht; CRM-Cron kann nun den PR erkennen.
 [2026-04-13 15:31]  Vorhandene Version auf Branch herbert/self-intro geprueft; ich ueberarbeite sie jetzt auf das neue Workflow-Test-Briefing.
 [2026-04-13 15:31]  Website auf reales Herbert-Briefing umgestellt: Hetzner, Telegram, Modelle, Grenzen und Setup-Herkunft eingetragen; als naechstes validiere ich HTML und pushe.
+[2026-04-13 15:32]  HTML validiert, Briefing-Inhalte geprueft und Branch herbert/self-intro mit Deploy-Key nach origin gepusht.
